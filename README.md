@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @askrasth
-- 👀 I’m interested in: Web development and Pythin language
+- 👀 I’m interested in: Web development and Python language
 - 🌱 I’m currently learning: HTML, CSS, JavaScript, Bootstrap and Python.
 - 💞️ I’m looking to collaborate on: Front end and Python projects
 - 📫 How to reach me: instagram: @askrasth. YouTube: Askrasth, tiktok:askrasth and E-mail: askrasth@gmail.com
