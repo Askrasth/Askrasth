@@ -8,8 +8,6 @@
 - ⚡ Fun fact: I'm also a Bassist. So if you need someone to collaborate on your songs, I'm the man
 - 🇬🇧 English Speaker
 - 🇧🇷 Portuguese Speaker
-- French speaker
+-  French speaker
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
