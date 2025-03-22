@@ -1,6 +1,8 @@
+&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+
 - 👋 Hi, I’m @askrasth.
 - 👀 I’m interested in: Web development front-end.
-- I already know HTML.
+- 😎 I already know HTML.
 - 🌱 I’m currently learning: CSS and JavaScript.
 - 💞️ I’m looking to collaborate on: Front end projects
 - 📫 How to reach me: instagram: @askrasth. YouTube: Askrasth, tiktok:askrasth and E-mail: askrasth@gmail.com
