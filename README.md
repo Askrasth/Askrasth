@@ -1,5 +1,3 @@
-&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-
 - 👋 Hi, I’m @askrasth.
 - 👀 I’m interested in: Web development front-end.
 - 😎 I already know HTML.
