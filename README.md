@@ -8,6 +8,7 @@
 [![Code Pen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Askrasth-Free-Singer)
 
 ![Askrasth GitHub stats](https://github-readme-stats.vercel.app/api?username=Askrasth&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Askrasth)](https://github.com/Askrasth/github-readme-stats)
 
 ### Technologies I know: 🤖 🦾 🦾 🖱️ 💻
 
